@@ -3,10 +3,9 @@ Project contains Low Level Designe(LLD) questions and their solutions with Domai
 
 
 Questions
-
+- Design a snake and ladder game using low-level design.
 - Design a web crawler system or search engine.
 - Design a traffic control system.
-- Design a snake and ladder game using low-level design.
 - Design a parking lot using object-oriented principles.
 - Design data structures and algorithms for an in-memory file system.
 - Design a global file sharing and storage app.
