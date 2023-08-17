@@ -25,3 +25,4 @@ Questions
 - Design a global video streaming service.
 - Design an autocomplete feature like word suggestions on search engines and scale it to millions of users.
 - Design the vending machine in Java.
+- Implement Split-wise Low level design
