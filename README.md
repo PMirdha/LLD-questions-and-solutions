@@ -26,3 +26,4 @@ Questions
 - Design an autocomplete feature like word suggestions on search engines and scale it to millions of users.
 - Design the vending machine in Java.
 - Implement Split-wise Low level design
+- Design a 2048 game.
